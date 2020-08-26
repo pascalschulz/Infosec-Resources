@@ -59,6 +59,13 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
  
 ### HTTP Parameter Pollution
  * https://www.acunetix.com/blog/whitepaper-http-parameter-pollution/
+ 
+ 
+## Tech-Stack
+
+### Electron Apps
+
+ * https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
 
 
  
