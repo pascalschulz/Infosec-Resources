@@ -50,6 +50,9 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
  * https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit
  * https://gist.github.com/BuffaloWill/fa96693af67e3a3dd3fb
  
+### SQL Injection 
+ * https://www.nccgroup.com/us/about-us/newsroom-and-events/blog/2019/march/did-you-order-a-sql-injection/
+ 
 ### CSRF (Cross-Site-Request Forgery)
  * https://resources.infosecinstitute.com/bypassing-csrf-protections-fun-profit/#gref
  
