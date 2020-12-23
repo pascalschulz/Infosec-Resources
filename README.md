@@ -60,6 +60,10 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
 ### HTTP Parameter Pollution
  * https://www.acunetix.com/blog/whitepaper-http-parameter-pollution/
  
+### Deserialization 
+ * https://github.com/frohoff/ysoserial
+ * https://book.hacktricks.xyz/pentesting-web/deserialization
+ 
  
 ## Tech-Stack
 
