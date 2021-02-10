@@ -59,6 +59,7 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
 ### CSS Injection
  * https://www.netsparker.com/blog/web-security/private-data-stolen-exploiting-css-injection/
  * https://portswigger.net/blog/detecting-and-exploiting-path-relative-stylesheet-import-prssi-vulnerabilities#badcss
+ * https://d0nut.medium.com/better-exfiltration-via-html-injection-31c72a2dae8b
  
 ### HTTP Parameter Pollution
  * https://www.acunetix.com/blog/whitepaper-http-parameter-pollution/
