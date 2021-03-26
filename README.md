@@ -76,6 +76,11 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
  * https://spaceraccoon.dev/open-sesame-escalating-open-redirect-to-rce-with-electron-code-review
 
 
+## Cheat-Sheets
+
+### API Hacking
+
+ * https://dsopas.github.io/MindAPI/play/
  
 ## Reconnaissance
  
