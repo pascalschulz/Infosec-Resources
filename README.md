@@ -19,6 +19,7 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
 ### Cross-Site-Scripting
  * http://lcamtuf.coredump.cx/postxss/
  * https://html5sec.org/
+ * https://aem1k.com/aurebesh.js/
  
 ### CSP 
  * https://blog.innerht.ml/csp-2015/
@@ -67,6 +68,9 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
 ### Deserialization 
  * https://github.com/frohoff/ysoserial
  * https://book.hacktricks.xyz/pentesting-web/deserialization
+
+### RCE
+ * https://www.revshells.com/
  
  
 ## Tech-Stack
@@ -114,10 +118,13 @@ This is a try to create a comprehensive list of good write-ups and tools for spe
  * https://www.youtube.com/watch?v=C4ZHAdI8o1w
  * https://www.youtube.com/watch?v=Y80drEt_TVQ
 
-
 ### Random Videos
+ * https://www.youtube.com/watch?v=RBoI0sSBeDo
 
-* https://www.youtube.com/watch?v=RBoI0sSBeDo
+## Technical Challenges
+
+### File Transfer
+ * https://file-downloads.com/
 
 ## Further Lists
 
